@@ -608,6 +608,29 @@ def cmd_rewrite_links(file_path: str) -> None:
         return f"[{text}]({url})"
 
     new_body = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", repl_md, body)
+
+    def repl_bare(match: re.Match) -> str:
+        url = match.group(0)
+        nid = normalise_id(url)
+        if not nid:
+            return url
+        page = pages.get(nid)
+        if page and page.get("fetch_status") == "ok" and page.get("target_path"):
+            target = REPO / page["target_path"]
+            try:
+                rel = os.path.relpath(target, file_dir)
+            except ValueError:
+                rel = page["target_path"]
+            if not rel.startswith("."):
+                rel = "./" + rel
+            return rel
+        return url
+
+    new_body = re.sub(
+        r"https?://[^\s,()<>\"]*notion\.(?:so|site)[^\s,()<>\"]*",
+        repl_bare,
+        new_body,
+    )
     if new_body != body:
         f.write_text(new_body, encoding="utf-8")
         print(f"rewrote links in {f.relative_to(REPO)}")
@@ -634,8 +657,15 @@ def cmd_verify() -> None:
         if not f.exists():
             continue
         text = f.read_text(encoding="utf-8")
-        # Banned patterns
+        # Banned patterns - skip lines inside fenced code blocks (verbatim quotes)
+        in_fence = False
         for line_no, line in enumerate(text.splitlines(), start=1):
+            stripped = line.lstrip()
+            if stripped.startswith("```"):
+                in_fence = not in_fence
+                continue
+            if in_fence:
+                continue
             if BANNED.search(line):
                 problems.append(f"{f.relative_to(REPO)}:{line_no}: banned pattern in: {line.strip()[:120]}")
         # Residual CJK
