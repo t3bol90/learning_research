@@ -1,33 +1,33 @@
-# 如何入门3D Vision的科研
+# Getting started with research in 3D vision
 
-## 第一阶段
+## Stage one
 
-学习基础的深度学习知识。这个阶段追求广度，了解一些基础的概念和算法。不要求深度，不要求掌握/熟悉算法所有的细节。这个阶段的目的是让你对深度学习有一个大概的了解，知道有哪些算法，知道这些算法的大概原理，知道这些算法的应用场景。
+Learn the basics of deep learning. The aim at this stage is breadth: get familiar with the main concepts and algorithms. Depth is not required, and you do not need to master every detail. The point is to give yourself a rough picture of deep learning, including which algorithms exist, roughly how they work, and where they are used.
 
-学习《Deep Learning for Computer Vision》课程。重点是完成里面的作业。懂得做作业，也就懂课程内容了。建议在GitHub上维护一个repo，存放作业。
+Take the *Deep Learning for Computer Vision* course. The key thing is to finish the assignments. If you can do the assignments, you have understood the course content. It helps to keep a GitHub repo for your assignments.
 
-推荐的课程是Andrej Karpathy教授的课程。这是[课程链接](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)。
+The recommended course is the one taught by Prof. Andrej Karpathy. Here is the [course link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html).
 
-如果对哪些算法或哪些代码有问题，推荐谷歌搜索或者问new bing，如果找不到答案，建议敢于向高年级学长/学姐询问。
+If you get stuck on an algorithm or a piece of code, try a Google search or ask Bing first. If you still cannot find an answer, do not be afraid to ask a senior student in the lab.
 
-## 第二阶段 
+## Stage two
 
-在有了基础知识的基础上，开始跟着学长/学姐做科研项目。这个阶段追求深度，追求掌握某一篇论文的细节（算法细节、代码实现细节）。这个阶段的目标是构建某一个科研细分方向的算法基础，通过参与科研项目来了解一篇论文是怎么做出来的（寻找科研问题、想idea、做实验、写论文）。
+Once you have the basics, start working on a research project alongside a senior student. The aim at this stage is depth: master the details of a particular paper (algorithm details and code-level implementation). The goal is to build an algorithmic foundation in one sub-area of research, and to learn how a paper actually gets made (finding research problems, coming up with ideas, running experiments, writing the paper) by being part of a real project.
 
-这个阶段需要做三方面的事情：
+There are three things to do at this stage:
 
-1. 首先选择一个自己感兴趣的科研方向。选择具体的科研方向以后，请实验室学长/学姐帮自己定制具体的学习计划。这是学习计划的一个[例子](https://pengsida.notion.site/8911dcc5922b4442a80d4407926e65bf)（这个例子的内容可能随着时间的推移而变得过时，请注重其体现出的计划思路）。
-2. 同时看一门计算机视觉的课程，不用做作业：[http://cs231n.stanford.edu/schedule.html](http://cs231n.stanford.edu/schedule.html)。该课程对深度学习在计算机视觉的应用有较为全面的介绍。因为已经在具体实现某个论文的算法了，所以这个阶段可以不用做作业，只需要看课程视频和课程讲义即可，不然日常时间可能不够分配。  
-如果对传统图形学的知识感兴趣，还需要看[GAMES101-现代计算机图形学入门](https://games-cn.org/intro-graphics/)、[GAMES202-高质量实时渲染](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html)（闫令琪老师开的课，讲得特别好）。  
-如果对motion synthesis/computer animation感兴趣，还需要看[GAMES105-计算机角色动画基础](https://games-105.github.io/)（刘利斌老师开的课，讲得特别好）。
-3. 在学习的过程中，参与旁听某个学长/学姐的科研项目，旁听我们每周的讨论，见识做科研具体是怎样的（[这个文档](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)总结了research project的具体流程）。等你算法基础和实验能力足够时，实验室会试着让你帮忙做我们Project的一些实验，从而开始上手做科研项目。参与Project时会读一些论文、做一些实验。[这个文档](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)总结了做research project需要的能力和相应的教程。
+1. First, pick a research direction you are interested in. Once you have chosen a specific direction, ask a senior student in the lab to help you put together a tailored study plan. Here is one [example](./docs/getting-started/stage-two-study-plan-example.md) (the contents may go out of date over time, so focus on the planning approach rather than the specifics).
+2. Watch a computer vision course in parallel, no need to do the assignments: [http://cs231n.stanford.edu/schedule.html](http://cs231n.stanford.edu/schedule.html). It gives a fairly full picture of how deep learning is applied in computer vision. Since you are already implementing the algorithm of a specific paper, you can skip the assignments at this stage and just watch the lectures and read the slides; otherwise daily time becomes hard to manage.
+   If you are interested in traditional graphics, also watch [GAMES101: Introduction to Modern Computer Graphics](https://games-cn.org/intro-graphics/) and [GAMES202: High-Quality Real-Time Rendering](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html) (taught by Prof. Lingqi Yan, who explains things very well).
+   If you are interested in motion synthesis or computer animation, also watch [GAMES105: Fundamentals of Computer Character Animation](https://games-105.github.io/) (taught by Prof. Libin Liu, who explains things very well).
+3. While you study, sit in on a senior student's research project and on our weekly group discussions, so you can see what doing research actually looks like ([this document](./docs/research-project.md) walks through the steps of a research project). Once your algorithmic foundation and experimental skills are strong enough, the lab will start asking you to help run some experiments on a project, which is how you begin doing research yourself. Working on a project means reading some papers and running some experiments. [This document](./docs/research-project.md) lists the abilities you need for a research project and the matching tutorials.
 
-在这个阶段可以熟悉一些[常用的工具、配置](https://pengsida.notion.site/59569d7b66954578b21bf1dc6ea35776)（这些工具是实验室的[贺星毅](https://github.com/hxy-123)同学整理的）。
+At this stage, get familiar with some [common tools and configurations](./docs/getting-started/common-tools-and-configs.md) (these tools were put together by [Xingyi He](https://github.com/hxy-123) in the lab).
 
-## 第三阶段
+## Stage three
 
-在有了一定算法基础以后，开始在实验室的指导下做一个自己一作的Project。这个阶段的目标是通过实践来学习一篇论文是怎么做出来的（寻找科研问题、想idea、做实验、写论文），比较好的情况是能完成一篇论文的投稿，从而在某个细分的科研方向上有一定的科研成果。
+Once you have an algorithmic foundation in place, start running a project as first author under the lab's guidance. The goal at this stage is to learn how a paper gets made through hands-on practice (finding research problems, coming up with ideas, running experiments, writing the paper). The good case is to finish the project and submit it as a paper, which gives you some research output in a sub-area.
 
-在深入探索这个阶段之前，请先做好心理准备，因为做科研和课程学习有很大的区别。具体请看[这个文档](https://pengsida.notion.site/a3fe9f17b8af46558cd1112627009c83)。
+Before going into this stage, prepare yourself mentally, because doing research is quite different from taking courses. See [this document](./docs/getting-started/mental-prep-stage-three.md).
 
-这一阶段因为其过程的前沿性与创新性，所以难以有固定的学习路线，比较依赖实验室的口传心授。我们尽量整理出了一些作为独立的科研工作者所必需的科研能力。具体请看[这个文档](./getting_advanced_in_research.md)。
+This stage is hard to reduce to a fixed study path because of how exploratory and novel the work is, and it leans heavily on what gets passed down within the lab. We have tried to gather the abilities an independent researcher needs. See [this document](./getting_advanced_in_research.md).

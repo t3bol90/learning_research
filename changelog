@@ -1,61 +1,61 @@
-- 2026年5月8日，更新了文档《怎么rebuttal》:https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022，增加了Rebuttal的语言风格。
-- 2026年5月3日，更新了文档《怎么rebuttal》:https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022，增加了Rebuttal的基本流程图。
-- 2026年1月25日，更新了文档《怎么找论文》:https://www.notion.so/pengsida/c278dab7e4764d61a92c1fd1ef3135b1，增加了基于Deep Research找论文。
-- 2026年1月25日，更新了文档《论文写作模板》:https://www.notion.so/pengsida/c1a22465a0fa4b15a12985223916048e，增加了论文写作规划图。
-- 2026年1月23日，更新了文档《怎么rebuttal》:https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022，增加了基于画图的review整理工具。
-- 2026年1月18日，更新了文档《如何做Research Project》:https://pengsida.notion.site/Research-Project-b43507ef26d044bd888ac29f4736e116?pvs=74，增加了vibe coding的相关内容。
-- 2026年1月18日，更新了文档《如何有效地读论文》:https://www.notion.so/pengsida/d192db870bc64436ae4a4a590b36772a
-- 2026年1月10日，更新了文档《如何做Research Project》:https://pengsida.notion.site/Research-Project-b43507ef26d044bd888ac29f4736e116?pvs=74，增加了系统思维的相关内容。
-- 2025年10月23日，更新了文档《Project核心技术问题分析模板》:https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4。
-- 2025年8月1日，更新了文档《Project核心技术问题分析模板》:https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4。
-- 2025年4月13日，更新了文档《Project核心技术问题分析模板》:https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4。
-- 2025年4月11日，增加文档《从面试问题的角度反思科研的宝贵品质》:https://www.notion.so/1d13fe292ff180de91afcb7f2eb57b69?pvs=4。
-- 2025年3月11日，增加文档《Project核心技术问题分析模板》:https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4。
-- 2025年1月5日，更新了文档《论文写作模板》:https://www.notion.so/pengsida/c1a22465a0fa4b15a12985223916048e。
-- 2025年1月4日，增加文档《博士生的楷模：Sebastian Starke》:https://www.notion.so/Sebastian-Starke-1713fe292ff1808eb33be93ea2d79ad9?pvs=4。
-- 2024年11月28日，更新了文档《论文写作模板》，增加了Method写作常见问题。
-- 2024年10月24日，增加文档《如何改一篇论文的写作》。
-- 2024年10月3日，增加文档《如何使用copilot和gpt辅助英语写作》。
-- 2024年6月1日，增加文档《有哪些不适合做科研的“学生心态”》。
-- 2024年5月3日，在文档《博士生应该具有的能力》中，增加了博士生应该具有的意识。
-- 2024年4月14日，更新了文档《如何给算法/代码debug》，增加了《调试九法》的读书笔记。
-- 2024年4月2日，增加了文档《如何给代码debug》。
-- 2024年3月21日，增加了文档《如何改进一个pipeline》和《如何增加论文的技术贡献》。
-- 2024年3月14日，增加了文档《如何培养科研品味》。
-- 2024年3月2日，增加了文档《如何高效地讨论》。
-- 2024年2月5日，增加了文档《给定Idea，如何设计探索性实验》。
-- 2024年2月4日，增加了文档《实验结果分析的经典十问》。
-- 2024年1月31日，更新了文档《论文写作模板》，强调了论文美感的重要性。
-- 2024年1月18日，更新了文档《论文写作模板》，更新了论文写作步骤和Method写作部分。
-- 2024年1月5日，增加了文档《如何高效地从导师、学长、学姐蒸馏知识》。
-- 2024年1月4日，更新了slides《learning research》，把改进Idea当作一个梯度优化的过程。
-- 2023年12月11日，增加了文档《如何做project page》。
-- 2023年11月9日，更新了文档《如何培养想idea的能力》，讨论了Goal-driven research在research产出方面的好处。
-- 2023年10月28日，更新了文档《怎么写实验记录》。
-- 2023年10月28日，更新了文档《如何培养想idea的能力》。
-- 2023年10月19日，更新了文档《怎么做学术报告slides》。
-- 2023年10月11日，更新了文档《如何meet》。
-- 2023年10月9日，更新了文档《论文写作模板》，增加了如何判断自己的论文段落是否写清楚。
-- 2023年10月8日，更新了文档《论文写作模板》，增加了写论文的步骤。
-- 2023年9月3日，更新了文档《论文写作模板》中的Method写作部分，加入了pipeline module四元素的概念：module forward process, module design, module discussion和module implementation details。
-- 2023年9月2日，更新了文档《论文写作模板》中的《怎么审论文》。
-- 2023年9月2日，更新了文档《论文写作模板》中的Method写作部分。
-- 2023年8月27日，更新了科研经验分享的slides，描述了如何做一个research project和总结了博⼠⽣应该具有的能⼒。
-- 2023年8月15日，在文档《如何找到实验不work的原因》中增加了用于分析实验不work的原因的流程图。
-- 2023年8月11日，在文档《如何画方法流程图》中增加了画图素材。
-- 2023年8月4日，在文档《博士生应该具有的能力》中，增加了文档《交流讨论对于科研的重要性》和《刚进实验室，怎么和实验室同学变熟》。
-- 2023年8月1日，根据同学反馈，梳理了文档《如何找到实验不work的原因》。
-- 2023年7月27日，在文档《如何做research project》中增加了文档《什么是goal-driven research》。
-- 2023年7月26日，增加了文档《如何做research project》。
-- 2023年7月21日，在文档《如何培养想idea的能力》增加了两个高水平科研工作者的科研经验文档：《John Schulman的科研经验》和《Michael Nielsen的科研经验》。
-- 2023年7月16日，增加了文档《如何有效地读论文》。
-- 2023年7月5日，更新了文档《如何培养想idea的能力》，增加了高水平科研工作者对“寻找重要的科研问题”的看法。
-- 2023年6月29日，将该repo的部分内容总结在了一个slides中：https://pengsida.net/files/how_to_do_research.pdf。
-- 2023年6月21日，更新了文档《论文写作模板》，增加了一个提升论文影响力的方法，在实验部分下功夫：“当把算法在目标数据上做work以后，尽量在更多新的数据上做实验，看看算法的极限，挖掘算法的潜力。”
-- 2023年6月10日，更新了文档《如何培养想idea的能力》，增加了一个对novelty的判断标准：“在新的数据上探索方法的可能性，让大家看到新的实验结论，这是很大的贡献。”
-- 2023年6月7日，更新了文档《审稿模板》。
-- 2023年6月6日，在文档《如何进行literature review》中加了补充说明。
-- 2023年6月2日，增加了文档《如何做学术报告slides》。
-- 2023年6月1日，在文档《如何培养想idea的能力》增加了“对method-driven research的个人理解”。
-- 2023年5月29日，修改了文档《如何培养想idea的能力》，在其中增加了子文档《如何构建novelty tree和challenge-insight tree（如何进行literature review）》。
-- 2023年5月20日，增加了文档《如何找到实验不work的原因》。
+- 8 May 2026, updated *How to do a rebuttal*: ./docs/rebuttal.md, added a section on language style for rebuttals.
+- 3 May 2026, updated *How to do a rebuttal*: ./docs/rebuttal.md, added a basic flow chart for the rebuttal process.
+- 25 January 2026, updated *How to find papers*: ./docs/find-papers.md, added how to find papers using Deep Research.
+- 25 January 2026, updated *Paper writing template*: ./docs/paper-writing/template.md, added a paper writing planning chart.
+- 23 January 2026, updated *How to do a rebuttal*: ./docs/rebuttal.md, added a drawing-based tool for organising reviews.
+- 18 January 2026, updated *How to do a research project*: ./docs/research-project.md, added content on vibe coding.
+- 18 January 2026, updated *How to read papers effectively*: ./docs/getting-advanced/reading-papers.md
+- 10 January 2026, updated *How to do a research project*: ./docs/research-project.md, added content on systems thinking.
+- 23 October 2025, updated *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 1 August 2025, updated *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 13 April 2025, updated *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 11 April 2025, added *Reflecting on the qualities valuable to research from the angle of interview questions*: ./docs/interview-questions-reflection.md
+- 11 March 2025, added *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 5 January 2025, updated *Paper writing template*: ./docs/paper-writing/template.md
+- 4 January 2025, added *A model PhD student: Sebastian Starke*: ./docs/sebastian-starke.md
+- 28 November 2024, updated *Paper writing template*, added common issues in writing the Method section.
+- 24 October 2024, added *How to revise the writing of a paper*.
+- 3 October 2024, added *How to use Copilot and GPT to assist English writing*.
+- 1 June 2024, added *Student attitudes that don't suit research*.
+- 3 May 2024, in *Abilities a PhD student should have*, added the awareness a PhD student should have.
+- 14 April 2024, updated *How to debug an algorithm or code*, added reading notes from *Debugging: The 9 Indispensable Rules*.
+- 2 April 2024, added *How to debug code*.
+- 21 March 2024, added *How to improve a pipeline* and *How to add to the technical contribution of a paper*.
+- 14 March 2024, added *How to develop research taste*.
+- 2 March 2024, added *How to discuss work efficiently*.
+- 5 February 2024, added *Given an idea, how to design exploratory experiments*.
+- 4 February 2024, added *Ten classic questions for analysing experimental results*.
+- 31 January 2024, updated *Paper writing template*, stressed the importance of aesthetic quality in a paper.
+- 18 January 2024, updated *Paper writing template*, updated the paper writing steps and the Method writing section.
+- 5 January 2024, added *How to extract knowledge effectively from your supervisor and senior students*.
+- 4 January 2024, updated the *learning research* slides, treated improving an idea as a process of gradient optimisation.
+- 11 December 2023, added *How to make a project page*.
+- 9 November 2023, updated *How to build the ability to come up with ideas*, discussed the benefits of goal-driven research for research output.
+- 28 October 2023, updated *How to write experiment notes*.
+- 28 October 2023, updated *How to build the ability to come up with ideas*.
+- 19 October 2023, updated *How to make slides for an academic talk*.
+- 11 October 2023, updated *How to meet*.
+- 9 October 2023, updated *Paper writing template*, added how to judge whether a paragraph in your paper is written clearly.
+- 8 October 2023, updated *Paper writing template*, added the steps for writing a paper.
+- 3 September 2023, updated the Method writing part of *Paper writing template*, introduced the four-element view of a pipeline module: module forward process, module design, module discussion, and module implementation details.
+- 2 September 2023, updated *How to review papers* in *Paper writing template*.
+- 2 September 2023, updated the Method writing section of *Paper writing template*.
+- 27 August 2023, updated the research experience sharing slides, described how to do a research project and summarised the abilities a PhD student should have.
+- 15 August 2023, in *How to find out why an experiment isn't working*, added a flow chart for analysing why an experiment isn't working.
+- 11 August 2023, in *How to draw a method pipeline figure*, added drawing assets.
+- 4 August 2023, in *Abilities a PhD student should have*, added the documents *The importance of discussion in research* and *Just joined the lab: how to get to know your lab mates*.
+- 1 August 2023, based on student feedback, reorganised *How to find out why an experiment isn't working*.
+- 27 July 2023, in *How to do a research project*, added *What is goal-driven research*.
+- 26 July 2023, added *How to do a research project*.
+- 21 July 2023, in *How to build the ability to come up with ideas*, added two research experience documents from high-level researchers: *John Schulman's research experience* and *Michael Nielsen's research experience*.
+- 16 July 2023, added *How to read papers effectively*.
+- 5 July 2023, updated *How to build the ability to come up with ideas*, added how high-level researchers think about finding important research problems.
+- 29 June 2023, summarised some of the content in this repo as a slide deck: https://pengsida.net/files/how_to_do_research.pdf.
+- 21 June 2023, updated *Paper writing template*, added a way to lift a paper's impact by putting more effort into the experiments: "once an algorithm works on the target data, run it on as much new data as you can to see how far it goes and what its limits are."
+- 10 June 2023, updated *How to build the ability to come up with ideas*, added a yardstick for novelty: "exploring what a method can do on new data and showing people new experimental conclusions is a big contribution."
+- 7 June 2023, updated *Reviewing template*.
+- 6 June 2023, in *How to do a literature review*, added supplementary notes.
+- 2 June 2023, added *How to make slides for an academic talk*.
+- 1 June 2023, in *How to build the ability to come up with ideas*, added "personal take on method-driven research".
+- 29 May 2023, revised *How to build the ability to come up with ideas*, added the sub-document *How to build a novelty tree and a challenge-insight tree (how to do a literature review)*.
+- 20 May 2023, added *How to find out why an experiment isn't working*.
