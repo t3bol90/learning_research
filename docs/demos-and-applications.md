@@ -15,7 +15,7 @@ Example 1: if Neural Body had not done the street-dance data, it probably would 
 
 Example 2: if the AniNeRF paper had run experiments on this kind of data, the impact would have been a lot bigger.
 
-- Mirror demo (video, embedded in source) <!-- zh: mirror-demo.mp4 -->
+- [Mirror demo](./assets/demos-and-applications/mirror-demo.mp4) <!-- zh: mirror-demo.mp4 -->
 
 Example 3: vid2avatar ran experiments on in-the-wild data, which brings out the potential of the algorithm and makes it feel really cool. [https://github.com/MoyGcc/vid2avatar](https://github.com/MoyGcc/vid2avatar)
 

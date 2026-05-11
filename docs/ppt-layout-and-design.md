@@ -10,10 +10,10 @@ How to build a PPT:
 
 Common page-layout templates and worked examples (**common**):
 
-- Card-style layout (PDF, embedded in source) <!-- zh: 卡片式排版.pdf -->
-- Column layout (PDF, embedded in source) <!-- zh: 分栏式排版.pdf -->
-- Banded layout (PDF, embedded in source) <!-- zh: 拦腰式排版.pdf -->
-- Wrap-around layout (PDF, embedded in source) <!-- zh: 环绕式排版.pdf -->
+- [Card-style layout](./assets/ppt-layout-and-design/card-style-layout.pdf) <!-- zh: 卡片式排版.pdf -->
+- [Column layout](./assets/ppt-layout-and-design/column-layout.pdf) <!-- zh: 分栏式排版.pdf -->
+- [Banded layout](./assets/ppt-layout-and-design/banded-layout.pdf) <!-- zh: 拦腰式排版.pdf -->
+- [Wrap-around layout](./assets/ppt-layout-and-design/wrap-around-layout.pdf) <!-- zh: 环绕式排版.pdf -->
 
 Course video link:
 [https://pan.baidu.com/s/1ASeiM87oHDJa9wlsNi_Jtg?pwd=jk9p](https://pan.baidu.com/s/1ASeiM87oHDJa9wlsNi_Jtg?pwd=jk9p) Extraction code: jk9p
@@ -28,7 +28,7 @@ From a Baidu Netdisk Super Member v7 share.
 <details>
 <summary>Lesson 01: Use SmartArt well, the page-layout workhorse</summary>
 
-- Course PDF (embedded in source) <!-- zh: 课程.pdf -->
+- [Course PDF](./assets/ppt-layout-and-design/course-pdf.pdf) <!-- zh: 课程.pdf -->
 
 A very useful tool: SmartArt layouts.
 
@@ -48,18 +48,18 @@ How to use it:
 
 </details>
 
-- Polished SmartArt graphic asset pack (PPTX, embedded in source) <!-- zh: 美化的SmartArt图形素材.pptx -->
+- [Polished SmartArt graphic asset pack](./assets/ppt-layout-and-design/polished-smartart-graphic-asset-pack.pptx) <!-- zh: 美化的SmartArt图形素材.pptx -->
 
 </details>
 
 <details>
 <summary>Lesson 02: PPT colour</summary>
 
-- Course PDF (embedded in source) <!-- zh: 课程.pdf -->
+- [Course PDF](./assets/ppt-layout-and-design/course-pdf-2.pdf) <!-- zh: 课程.pdf -->
 
 ![](./assets/ppt-layout-and-design/006.png)
 
-- Colour asset library (PPTX, embedded in source) <!-- zh: 配色素材库.pptx -->
+- [Colour asset library](./assets/ppt-layout-and-design/colour-asset-library.pptx) <!-- zh: 配色素材库.pptx -->
 
 1. Colours a PPT needs
 
@@ -110,14 +110,14 @@ How to use it:
 <details>
 <summary>Lesson 03: PPT fonts, shapes, and assets</summary>
 
-- Course PDF (embedded in source) <!-- zh: 课程.pdf -->
+- [Course PDF](./assets/ppt-layout-and-design/course-pdf-3.pdf) <!-- zh: 课程.pdf -->
 
 <details>
 <summary>Lesson 03-1: Picking PPT fonts</summary>
 
 ![](./assets/ppt-layout-and-design/021.png)
 
-- Font asset pack (PDF, embedded in source) <!-- zh: 字体素材.pdf -->
+- [Font asset pack](./assets/ppt-layout-and-design/font-asset-pack.pdf) <!-- zh: 字体素材.pdf -->
 
 1. Common font mistakes
 
@@ -152,9 +152,9 @@ How to use it:
 
 Shapes lean towards art and design, so build up a stash of references:
 
-- Shape outline asset pack (PDF, embedded in source) <!-- zh: 形状轮廓素材.pdf -->
-- Shape texture asset pack (PDF, embedded in source) <!-- zh: 形状纹理素材.pdf -->
-- Shape effect asset pack (PDF, embedded in source) <!-- zh: 形状效果素材.pdf -->
+- [Shape outline asset pack](./assets/ppt-layout-and-design/shape-outline-asset-pack.pdf) <!-- zh: 形状轮廓素材.pdf -->
+- [Shape texture asset pack](./assets/ppt-layout-and-design/shape-texture-asset-pack.pdf) <!-- zh: 形状纹理素材.pdf -->
+- [Shape effect asset pack](./assets/ppt-layout-and-design/shape-effect-asset-pack.pdf) <!-- zh: 形状效果素材.pdf -->
 
 1. How to adjust shapes
 
@@ -207,7 +207,7 @@ Asset site: [https://flaticon.com/](https://flaticon.com/)
 <details>
 <summary>Lesson 05: Cover-page design</summary>
 
-- Course PDF (embedded in source) <!-- zh: 课程.pdf -->
+- [Course PDF](./assets/ppt-layout-and-design/course-pdf-4.pdf) <!-- zh: 课程.pdf -->
 
 ![](./assets/ppt-layout-and-design/042.png)
 ![](./assets/ppt-layout-and-design/043.png)
@@ -238,14 +238,14 @@ Using shapes to draw attention
 
 Course materials:
 
-- Text layout (PDF, embedded in source) <!-- zh: 文本排版.pdf -->
-- Layout design (PDF, embedded in source) <!-- zh: 排版设计.pdf -->
-- Multi-point layout design (PDF, embedded in source) <!-- zh: 多点式排版设计.pdf -->
-- Creative layout design (PDF, embedded in source) <!-- zh: 创意排版设计.pdf -->
+- [Text layout](./assets/ppt-layout-and-design/text-layout.pdf) <!-- zh: 文本排版.pdf -->
+- [Layout design](./assets/ppt-layout-and-design/layout-design.pdf) <!-- zh: 排版设计.pdf -->
+- [Multi-point layout design](./assets/ppt-layout-and-design/multi-point-layout-design.pdf) <!-- zh: 多点式排版设计.pdf -->
+- [Creative layout design](./assets/ppt-layout-and-design/creative-layout-design.pdf) <!-- zh: 创意排版设计.pdf -->
 
 **When designing a PPT layout, shift from linear writing to point-based, structured reporting.**
 
-- PPT layout templates (PPTX, embedded in source) <!-- zh: PPT排版模板.pptx -->
+- [PPT layout templates](./assets/ppt-layout-and-design/ppt-layout-templates.pptx) <!-- zh: PPT排版模板.pptx -->
 
 <details>
 <summary>Example</summary>
@@ -301,42 +301,42 @@ Adjust spacing
 <details>
 <summary>Lesson 07: How to design a PPT page that holds many images</summary>
 
-- Multi-image layout (PDF, embedded in source) <!-- zh: 多图排版.pdf -->
+- [Multi-image layout](./assets/ppt-layout-and-design/multi-image-layout.pdf) <!-- zh: 多图排版.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 08: How to design a PPT page that holds a lot of data</summary>
 
-- Data layout (PDF, embedded in source) <!-- zh: 数据排版.pdf -->
+- [Data layout](./assets/ppt-layout-and-design/data-layout.pdf) <!-- zh: 数据排版.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 09: How to design a PPT page for personal or team introductions</summary>
 
-- Personal and team introductions (PDF, embedded in source) <!-- zh: 个人团队介绍.pdf -->
+- [Personal and team introductions](./assets/ppt-layout-and-design/personal-and-team-introductions.pdf) <!-- zh: 个人团队介绍.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 10: How to design a PPT page that holds tables</summary>
 
-- Table page design (PDF, embedded in source) <!-- zh: 表格页设计.pdf -->
+- [Table page design](./assets/ppt-layout-and-design/table-page-design.pdf) <!-- zh: 表格页设计.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 11: How to design a PPT page that holds a timeline</summary>
 
-- Timeline design (PDF, embedded in source) <!-- zh: 时间轴设计.pdf -->
+- [Timeline design](./assets/ppt-layout-and-design/timeline-design.pdf) <!-- zh: 时间轴设计.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 12: How to design a PPT page that holds an org chart</summary>
 
-- Org chart design (PDF, embedded in source) <!-- zh: 组织架构图设计.pdf -->
+- [Org chart design](./assets/ppt-layout-and-design/org-chart-design.pdf) <!-- zh: 组织架构图设计.pdf -->
 
 </details>
 
@@ -345,20 +345,20 @@ Adjust spacing
 <details>
 <summary>Lesson 13: Live session on work-style PPT reporting</summary>
 
-- Live session: work-style PPT reporting (PDF, embedded in source) <!-- zh: 工作型PPT汇报专题直播课.pdf -->
+- [Live session: work-style PPT reporting](./assets/ppt-layout-and-design/live-session-work-style-ppt-reporting.pdf) <!-- zh: 工作型PPT汇报专题直播课.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 14: Live session on academic PPT reporting</summary>
 
-- Live session: academic PPT reporting (PDF, embedded in source) <!-- zh: 学术型PPT汇报专题直播课.pdf -->
+- [Live session: academic PPT reporting](./assets/ppt-layout-and-design/live-session-academic-ppt-reporting.pdf) <!-- zh: 学术型PPT汇报专题直播课.pdf -->
 
 </details>
 
 <details>
 <summary>Lesson 15: Live session on creative-style PPT</summary>
 
-- Live session: creative-style PPT (PDF, embedded in source) <!-- zh: 创意风格PPT专题直播课.pdf -->
+- [Live session: creative-style PPT](./assets/ppt-layout-and-design/live-session-creative-style-ppt.pdf) <!-- zh: 创意风格PPT专题直播课.pdf -->
 
 </details>

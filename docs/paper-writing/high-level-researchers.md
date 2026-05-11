@@ -5,7 +5,7 @@
 <details>
 <summary>Bill Freeman's experience</summary>
 
-- How to write a good CVPR submission (PDF, embedded in source) <!-- zh: how_to_write_a_good_CVPR_submission.pdf -->
+- [How to write a good CVPR submission](./assets/high-level-researchers/how-to-write-a-good-cvpr-submission.pdf) <!-- zh: how_to_write_a_good_CVPR_submission.pdf -->
 
 ![](./assets/high-level-researchers/001.png)
 
@@ -14,7 +14,7 @@
 <details>
 <summary>Experience from SIGGRAPH paper chairs</summary>
 
-- Paper chairs writing (PDF, embedded in source) <!-- zh: paper_chairs_writing.pdf -->
+- [Paper chairs writing](./assets/high-level-researchers/paper-chairs-writing.pdf) <!-- zh: paper_chairs_writing.pdf -->
 
 </details>
 
@@ -24,7 +24,7 @@
 <details>
 <summary>A great book on English writing: Writing Science. It has a section on flow.</summary>
 
-- Writing Science (PDF, embedded in source) <!-- zh: Writing_Science.pdf -->
+- [Writing Science](./assets/high-level-researchers/writing-science.pdf) <!-- zh: Writing_Science.pdf -->
 
 ![](./assets/high-level-researchers/002.png)
 
@@ -33,7 +33,7 @@
 <details>
 <summary>How to tell whether your writing flows</summary>
 
-- Does my writing flow (PDF, embedded in source) <!-- zh: does-my-writing-flow.pdf -->
+- [Does my writing flow](./assets/high-level-researchers/does-my-writing-flow.pdf) <!-- zh: does-my-writing-flow.pdf -->
 
 </details>
 
