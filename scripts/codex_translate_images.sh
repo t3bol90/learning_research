@@ -13,6 +13,13 @@ ALL_IMAGES=$(find docs -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.
 TOTAL=$(echo "$ALL_IMAGES" | wc -l | tr -d ' ')
 echo "=== started $(date) — $TOTAL candidate images, parallel=$PARALLEL ===" | tee -a "$LOG"
 
+# xargs -P passes a non-zero exit status from any child to its own exit. The
+# per-file script exits 42 when it sees the OpenAI usage-limit error so the
+# whole pool can short-circuit instead of burning iterations on doomed retries.
 echo "$ALL_IMAGES" | xargs -n 1 -P "$PARALLEL" "$ONE"
-
-echo "=== finished $(date) ===" | tee -a "$LOG"
+RC=$?
+if [ "$RC" -eq 42 ] || [ "$RC" -eq 123 ]; then
+  echo "=== aborted $(date): codex usage limit reached ===" | tee -a "$LOG"
+  exit 42
+fi
+echo "=== finished $(date) (rc=$RC) ===" | tee -a "$LOG"
