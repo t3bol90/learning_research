@@ -657,20 +657,29 @@ def cmd_verify() -> None:
         if not f.exists():
             continue
         text = f.read_text(encoding="utf-8")
-        # Banned patterns - skip lines inside fenced code blocks (verbatim quotes)
+        # Banned patterns + residual CJK — skip lines inside fenced code blocks
+        # (verbatim quotes) AND inside `<!-- zh: ... -->` markers, which may
+        # span multiple lines and intentionally preserve the original Chinese.
         in_fence = False
+        in_zh = False
         for line_no, line in enumerate(text.splitlines(), start=1):
             stripped = line.lstrip()
             if stripped.startswith("```"):
                 in_fence = not in_fence
                 continue
+            # Track zh markers (open/close on the same line is a no-op).
+            if not in_zh and "<!-- zh:" in line:
+                in_zh = "-->" not in line.split("<!-- zh:", 1)[1]
+                continue
+            if in_zh:
+                if "-->" in line:
+                    in_zh = False
+                continue
             if in_fence:
                 continue
             if BANNED.search(line):
                 problems.append(f"{f.relative_to(REPO)}:{line_no}: banned pattern in: {line.strip()[:120]}")
-        # Residual CJK
-        for line_no, line in enumerate(text.splitlines(), start=1):
-            if CJK_RE.search(line) and "<!-- zh:" not in line:
+            if CJK_RE.search(line):
                 problems.append(f"{f.relative_to(REPO)}:{line_no}: CJK residue: {line.strip()[:120]}")
         # Notion URLs without (Notion) marker
         for m in re.finditer(r"\[([^\]]+)\]\((https?://[^)]+notion\.(?:so|site)[^)]*)\)", text):

@@ -7,7 +7,7 @@ Code debugging:
 1. Are the intermediate outputs of each module what you expect?
    [How to debug an algorithm or code](./debug.md)
 2. Reasons behind some classic code bugs (NaN, segmentation fault, and so on)
-   [Reasons behind some classic code bugs (Notion)](https://www.notion.so/8beb455efdd54cf8bc6de579bca3c211) (Notion)
+   [Reasons behind some classic code bugs (Notion)](./getting-advanced/classic-code-bug-causes.md) (Notion)
 
 Failure cases:
 

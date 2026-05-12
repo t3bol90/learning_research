@@ -2,7 +2,7 @@
 
 > Document index (GitHub repo): [https://github.com/pengsida/learning_research](https://github.com/pengsida/learning_research)
 
-Why you should make appealing demos and applications: [to grow the impact and citation count of the paper (Notion)](https://www.notion.so/e94fd42c49614acc98d8457cf00d5903) (Notion).
+Why you should make appealing demos and applications: [to grow the impact and citation count of the paper (Notion)](./getting-advanced/impactful-work.md) (Notion).
 
 **Principle: demos and applications should target the downstream research community. Carefully analyse what the downstream research community is interested in.**
 

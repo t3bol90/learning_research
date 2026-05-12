@@ -22,16 +22,16 @@ Source file (drawio): [paper-writing-planning.drawio](./assets/template/paper-wr
 | Paper writing step | Matching tutorial |
 | --- | --- |
 | 1. Sketch a clear pipeline figure draft | a. [Paper figure template (not yet public) (Notion)](https://www.notion.so/0051678d2df74d73ae236b9b44875193) (Notion) |
-| 2. Sort out the paper's story, draft the writing outline for the Introduction, and list the comparison experiments and ablation studies you want to run | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b)<br>c. [Paper writing template (Notion)](./template.md) |
-| 3. Lay out the writing outline for the Method, then write the Method while running experiments | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b)<br>c. [How to use Copilot and GPT to support English writing (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b) |
-| 4. Revise the Introduction and Method while continuing experiments | a. [How to revise paper writing (Notion)](https://www.notion.so/1293fe292ff180bfa5deeed526821d78) |
-| 5. Once experiments are mostly done, lay out the writing outline for the Experiments section, then write it | a. [How to lay out a writing outline (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b)<br>b. [How to use Copilot and GPT to support English writing (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b)<br>c. [Paper writing template (Notion)](./template.md) |
+| 2. Sort out the paper's story, draft the writing outline for the Introduction, and list the comparison experiments and ablation studies you want to run | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](./copilot-and-gpt-for-english-writing.md)<br>c. [Paper writing template (Notion)](./template.md) |
+| 3. Lay out the writing outline for the Method, then write the Method while running experiments | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](./copilot-and-gpt-for-english-writing.md)<br>c. [How to use Copilot and GPT to support English writing (Notion)](./copilot-and-gpt-for-english-writing.md) |
+| 4. Revise the Introduction and Method while continuing experiments | a. [How to revise paper writing (Notion)](./revising-paper-writing.md) |
+| 5. Once experiments are mostly done, lay out the writing outline for the Experiments section, then write it | a. [How to lay out a writing outline (Notion)](./copilot-and-gpt-for-english-writing.md)<br>b. [How to use Copilot and GPT to support English writing (Notion)](./copilot-and-gpt-for-english-writing.md)<br>c. [Paper writing template (Notion)](./template.md) |
 | 6. Polish the pipeline figure and produce the teaser figure | a. [Paper figure template (not yet public) (Notion)](https://www.notion.so/0051678d2df74d73ae236b9b44875193) (Notion) |
-| 7. Lay out the writing outline for the Related work, then write it | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b)<br>c. [How to use Copilot and GPT to support English writing (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b) |
-| 8. Review the paper. Revise the Introduction, Method and Experiments | a. [Paper writing template (Notion)](./template.md)<br>b. [How to revise paper writing (Notion)](https://www.notion.so/1293fe292ff180bfa5deeed526821d78) |
-| 9. Lay out the writing outline for the Abstract, then write it | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b)<br>c. [How to use Copilot and GPT to support English writing (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b) |
+| 7. Lay out the writing outline for the Related work, then write it | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](./copilot-and-gpt-for-english-writing.md)<br>c. [How to use Copilot and GPT to support English writing (Notion)](./copilot-and-gpt-for-english-writing.md) |
+| 8. Review the paper. Revise the Introduction, Method and Experiments | a. [Paper writing template (Notion)](./template.md)<br>b. [How to revise paper writing (Notion)](./revising-paper-writing.md) |
+| 9. Lay out the writing outline for the Abstract, then write it | a. [Paper writing template (Notion)](./template.md)<br>b. [How to lay out a writing outline (Notion)](./copilot-and-gpt-for-english-writing.md)<br>c. [How to use Copilot and GPT to support English writing (Notion)](./copilot-and-gpt-for-english-writing.md) |
 | 10. Pick a paper title | a. [Paper writing template (Notion)](./template.md) |
-| 11. Iterate. Review the paper repeatedly and revise it | a. [Paper writing template (Notion)](./template.md)<br>b. [How to revise paper writing (Notion)](https://www.notion.so/1293fe292ff180bfa5deeed526821d78) |
+| 11. Iterate. Review the paper repeatedly and revise it | a. [Paper writing template (Notion)](./template.md)<br>b. [How to revise paper writing (Notion)](./revising-paper-writing.md) |
 
 > The key to a paper getting good reviews: **make the paper look polished and attractive, so the first impression is that it is a high-quality piece of work.**
 >
@@ -78,9 +78,9 @@ Source file (drawio): [paper-writing-planning.drawio](./assets/template/paper-wr
 
 </details>
 
-[How to use Copilot and GPT to support English writing (Notion)](https://www.notion.so/1143fe292ff180feb5d0fe76d05e085b) (**important**, a basic skill in the LLM era)
+[How to use Copilot and GPT to support English writing (Notion)](./copilot-and-gpt-for-english-writing.md) (**important**, a basic skill in the LLM era)
 
-[How to revise the writing of a paper (Notion)](https://www.notion.so/1293fe292ff180bfa5deeed526821d78)
+[How to revise the writing of a paper (Notion)](./revising-paper-writing.md)
 
 > When to start writing: in general, start writing the paper at least **one month before the submission deadline**.
 
