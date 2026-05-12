@@ -1,5 +1,11 @@
 # Learning Research
 
+> **Disclaimer.** This is an unofficial English translation of [pengsida/learning_research](https://github.com/pengsida/learning_research) by [Sida Peng](https://pengsida.net/). All credit for the original content goes to the author and the contributors acknowledged below; this fork only translates and reorganises the writing.
+>
+> The translation is **ongoing**. Most of the linked Notion pages have been translated and live under [`docs/`](./docs/), but some sub-pages and historical references still point at the original Notion workspace. Those external links are tagged `(Notion)` so you can tell at a glance when a click will leave the repo.
+>
+> If you spot a translation error, an awkward turn of phrase, or a Notion page that should be pulled in next, please open an issue or a pull request.
+
 ## Motivation of this repository
 
 1. Research training aimed at lab postgraduates and undergraduates. The hope is to write down research experience rather than passing it on by word of mouth, so that newcomers to the lab can learn how to do research.
