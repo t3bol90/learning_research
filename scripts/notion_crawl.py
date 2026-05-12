@@ -9,6 +9,10 @@ Subcommands:
   next                       Print next page id to fetch (BFS pop), or
                              empty if queue drained.
   download-images <id>       curl every image for the page, update manifest.
+  wrap-inline <src> <dst>    Wrap an inline MCP response (single JSON object)
+                             into the array-of-text shape add-fetched expects.
+  process-inline <id>        Read an inline JSON object from stdin, wrap it,
+                             add to manifest, and download images. One-shot.
   list-ok                    Print every page id whose fetch_status==ok.
   list-needing-translation   Print every ok page id whose translation_status!=done.
   sanitise <id>              Strip Notion-specific markup, write
@@ -198,13 +202,13 @@ def _extract_image_urls(body: str) -> list[str]:
             seen.add(u)
             found.append(u)
     # <file src="..."> for image files (heuristic: ends with image ext)
-    for m in re.finditer(r'<file\s+src="([^"]+amazonaws\.com[^"]+)"', body):
+    for m in re.finditer(r'<file\s+src="(https?://[^"]+amazonaws\.com[^"]+)"', body):
         u = m.group(1)
         if u not in seen:
             seen.add(u)
             found.append(u)
     # Bare S3 URL inside <img src="...">
-    for m in re.finditer(r'<img\s+[^>]*src="([^"]+amazonaws\.com[^"]+)"', body):
+    for m in re.finditer(r'<img\s+[^>]*src="(https?://[^"]+amazonaws\.com[^"]+)"', body):
         u = m.group(1)
         if u not in seen:
             seen.add(u)
@@ -257,6 +261,35 @@ def cmd_next() -> None:
         return
     queued.sort(key=lambda x: (x[0], x[1]))
     print(queued[0][1])
+
+
+def cmd_wrap_inline(src_path: str, dst_path: str) -> None:
+    src = Path(src_path)
+    dst = Path(dst_path)
+    obj = json.loads(src.read_text(encoding="utf-8"))
+    if isinstance(obj, list):
+        # Already in the expected shape.
+        dst.write_text(json.dumps(obj, ensure_ascii=False), encoding="utf-8")
+    else:
+        wrapped = [{"type": "text", "text": json.dumps(obj, ensure_ascii=False)}]
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        dst.write_text(json.dumps(wrapped, ensure_ascii=False), encoding="utf-8")
+    print(f"wrapped {src} -> {dst}")
+
+
+def cmd_process_inline(page_id: str) -> None:
+    page_id = normalise_id(page_id) or page_id
+    raw_text = sys.stdin.read()
+    obj = json.loads(raw_text)
+    if not isinstance(obj, list):
+        wrapped = [{"type": "text", "text": json.dumps(obj, ensure_ascii=False)}]
+    else:
+        wrapped = obj
+    raw_dest = CACHE / "raw" / f"{page_id}.json"
+    raw_dest.parent.mkdir(parents=True, exist_ok=True)
+    raw_dest.write_text(json.dumps(wrapped, ensure_ascii=False), encoding="utf-8")
+    cmd_add_fetched(page_id, str(raw_dest))
+    cmd_download_images(page_id)
 
 
 def cmd_add_fetched(page_id: str, raw_path_str: str) -> None:
@@ -575,6 +608,29 @@ def cmd_rewrite_links(file_path: str) -> None:
         return f"[{text}]({url})"
 
     new_body = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", repl_md, body)
+
+    def repl_bare(match: re.Match) -> str:
+        url = match.group(0)
+        nid = normalise_id(url)
+        if not nid:
+            return url
+        page = pages.get(nid)
+        if page and page.get("fetch_status") == "ok" and page.get("target_path"):
+            target = REPO / page["target_path"]
+            try:
+                rel = os.path.relpath(target, file_dir)
+            except ValueError:
+                rel = page["target_path"]
+            if not rel.startswith("."):
+                rel = "./" + rel
+            return rel
+        return url
+
+    new_body = re.sub(
+        r"https?://[^\s,()<>\"]*notion\.(?:so|site)[^\s,()<>\"]*",
+        repl_bare,
+        new_body,
+    )
     if new_body != body:
         f.write_text(new_body, encoding="utf-8")
         print(f"rewrote links in {f.relative_to(REPO)}")
@@ -601,8 +657,15 @@ def cmd_verify() -> None:
         if not f.exists():
             continue
         text = f.read_text(encoding="utf-8")
-        # Banned patterns
+        # Banned patterns - skip lines inside fenced code blocks (verbatim quotes)
+        in_fence = False
         for line_no, line in enumerate(text.splitlines(), start=1):
+            stripped = line.lstrip()
+            if stripped.startswith("```"):
+                in_fence = not in_fence
+                continue
+            if in_fence:
+                continue
             if BANNED.search(line):
                 problems.append(f"{f.relative_to(REPO)}:{line_no}: banned pattern in: {line.strip()[:120]}")
         # Residual CJK
@@ -650,6 +713,10 @@ def main(argv: list[str]) -> None:
         cmd_next()
     elif cmd == "add-fetched":
         cmd_add_fetched(*rest)
+    elif cmd == "wrap-inline":
+        cmd_wrap_inline(*rest)
+    elif cmd == "process-inline":
+        cmd_process_inline(*rest)
     elif cmd == "download-images":
         cmd_download_images(*rest)
     elif cmd == "list-ok":
