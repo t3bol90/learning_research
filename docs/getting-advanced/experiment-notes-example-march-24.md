@@ -28,36 +28,36 @@ Goals for this week:
 <tr>
 <td>
 
-[6.3 hours, no mask](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/42f4fb4e-d13d-4c63-a8cc-0930f0a29a09/step00000000.mp4) (video, Notion)
+[6.3 hours, no mask](./assets/experiment-notes-example-march-24/6-3-hours-no-mask.mp4)
 
 </td>
 <td>
 
-[With mask](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/97f19d17-7881-44e8-8a0c-e93fbd2eaa89/step00000000.mp4) (video, Notion)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[4.2 hours, no mask](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/63b38420-3d24-42f2-83db-b8bd8bc3b3b8/step00030000.mp4) (video, Notion)
-
-</td>
-<td>
-
-[With mask](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/6bc223f5-db39-48bd-84d8-7553eed6c2cb/step00030000.mp4) (video, Notion)
+[With mask](./assets/experiment-notes-example-march-24/with-mask.mp4)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[2.1 hours, no mask](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/74e39da6-2e6c-40be-b21d-4eaa898c9f9c/step00060000.mp4) (video, Notion)
+[4.2 hours, no mask](./assets/experiment-notes-example-march-24/4-2-hours-no-mask.mp4)
 
 </td>
 <td>
 
-[With mask](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/84ab22d8-e6a8-4fcf-ade7-b82bb14fea5d/step00060000.mp4) (video, Notion)
+[With mask](./assets/experiment-notes-example-march-24/with-mask-2.mp4)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[2.1 hours, no mask](./assets/experiment-notes-example-march-24/2-1-hours-no-mask.mp4)
+
+</td>
+<td>
+
+[With mask](./assets/experiment-notes-example-march-24/with-mask-3.mp4)
 
 </td>
 </tr>
@@ -183,36 +183,36 @@ Current issues:
 <tr>
 <td>
 
-[Depth, step 30000](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/f4d05853-754b-4c5c-af2c-7eb736c29de2/step00030000_depth.mp4) (video, Notion)
+[Depth, step 30000](./assets/experiment-notes-example-march-24/depth-step-30000.mp4)
 
 </td>
 <td>
 
-[1.5 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/b5261581-84a7-4605-92f2-6847e7497023/step00030000.mp4) (video, Notion)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[Depth, step 60000](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/6a7419f2-2cb1-4b16-9202-efaed2d01bd5/step00060000_depth.mp4) (video, Notion)
-
-</td>
-<td>
-
-[3 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/f9794f2d-e92a-4fa6-83dd-a516a97cbbd5/step00060000.mp4) (video, Notion)
+[1.5 hours](./assets/experiment-notes-example-march-24/1-5-hours.mp4)
 
 </td>
 </tr>
 <tr>
 <td>
 
-[Depth, step 90000](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/5008e418-b756-4b15-9d8c-40580b71180e/step00090000_depth.mp4) (video, Notion)
+[Depth, step 60000](./assets/experiment-notes-example-march-24/depth-step-60000.mp4)
 
 </td>
 <td>
 
-[4.5 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/093d2942-4de4-4d87-80d2-3156072e38d8/step00090000.mp4) (video, Notion)
+[3 hours](./assets/experiment-notes-example-march-24/3-hours.mp4)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[Depth, step 90000](./assets/experiment-notes-example-march-24/depth-step-90000.mp4)
+
+</td>
+<td>
+
+[4.5 hours](./assets/experiment-notes-example-march-24/4-5-hours.mp4)
 
 </td>
 </tr>
@@ -222,12 +222,12 @@ Current issues:
 <tr>
 <td>
 
-[Depth, step 0](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/6d84f366-3616-4e54-b74e-9207044cb6a9/step00000000_depth.mp4) (video, Notion)
+[Depth, step 0](./assets/experiment-notes-example-march-24/depth-step-0.mp4)
 
 </td>
 <td>
 
-[RGB, step 0](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/0ea92d03-5eed-4825-8976-8d75501dde2d/step00000000.mp4) (video, Notion)
+[RGB, step 0](./assets/experiment-notes-example-march-24/rgb-step-0.mp4)
 
 </td>
 </tr>
@@ -239,17 +239,17 @@ Current issues:
 <tr>
 <td>
 
-[1.35 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/52443ef6-7c29-4618-9389-7fdec2fa8ea8/step00030000.mp4) (video, Notion)
+[1.35 hours](./assets/experiment-notes-example-march-24/1-35-hours.mp4)
 
 </td>
 <td>
 
-[2.7 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/b5e8eb9f-c0d3-4ea4-ac9c-34d14538a7b2/step00060000.mp4) (video, Notion)
+[2.7 hours](./assets/experiment-notes-example-march-24/2-7-hours.mp4)
 
 </td>
 <td>
 
-[4 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/546be128-cb58-411c-9427-f70cecf5c191/step00090000.mp4) (video, Notion)
+[4 hours](./assets/experiment-notes-example-march-24/4-hours.mp4)
 
 </td>
 </tr>
@@ -261,17 +261,17 @@ KPlanes IBR joint training
 <tr>
 <td>
 
-[2.1 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/0673c044-ced3-4d85-b90e-c2847163a1ba/step00030000.mp4) (video, Notion)
+[2.1 hours](./assets/experiment-notes-example-march-24/2-1-hours.mp4)
 
 </td>
 <td>
 
-[4.2 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/664e5518-6ce3-44ba-9d0f-f34d3f94a7a2/step00060000.mp4) (video, Notion)
+[4.2 hours](./assets/experiment-notes-example-march-24/4-2-hours.mp4)
 
 </td>
 <td>
 
-[6.3 hours](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/ca47d4c6-831b-42a9-93e0-62593e40d3aa/step00000000.mp4) (video, Notion)
+[6.3 hours](./assets/experiment-notes-example-march-24/6-3-hours.mp4)
 
 </td>
 </tr>
@@ -281,12 +281,12 @@ KPlanes IBR joint training
 <tr>
 <td>
 
-[Run A, step 0](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/f0615c4b-0884-44d4-91d4-34fa098a773d/step00000000.mp4) (video, Notion)
+[Run A, step 0](./assets/experiment-notes-example-march-24/run-a-step-0.mp4)
 
 </td>
 <td>
 
-[Run B, step 0](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/7e645fa0-8ece-4d73-a445-6f4e0931f6bd/step00000000.mp4) (video, Notion)
+[Run B, step 0](./assets/experiment-notes-example-march-24/run-b-step-0.mp4)
 
 </td>
 </tr>
@@ -350,18 +350,18 @@ KPlanes IBR joint training
 <tr>
 <td>
 
-[Joint training](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/2ed4fcb6-140a-4d60-825d-020321954ba5/step00000000.mp4) (video, Notion)
+[Joint training](./assets/experiment-notes-example-march-24/joint-training.mp4)
 
 </td>
 <td>
 
-[Single-frame joint training](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/1ee817f8-753c-45e8-a963-a83ed81c9550/step00000000.mp4) (video, Notion)
+[Single-frame joint training](./assets/experiment-notes-example-march-24/single-frame-joint-training.mp4)
 
 </td>
 </tr>
 </table>
 
-[Random multi-image](https://prod-files-secure.s3.us-west-2.amazonaws.com/952f5f87-b692-4249-a557-7f7ad0a77d56/9615ad33-b059-4b38-8922-bba6ef11ff64/step00000000.mp4) (video, Notion)
+[Random multi-image](./assets/experiment-notes-example-march-24/random-multi-image.mp4)
 
 ### 4.2 Experimental observations
 
