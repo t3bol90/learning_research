@@ -55,6 +55,7 @@ MAPPING = {
     "c8013937e2c24dfab39695cf05d70101": ("docs/which-applications-demos.md", "Which applications and demos to make"),
     "cd9c4f2e0cb147ab9e1e1c98dc1a5055": ("docs/paper-writing/figures.md", "Drawing figures for the paper"),
     "1703fe292ff1809e92d2ff48f47e06de": ("docs/phase-for-character-control.md", "Phase for character control"),
+    "1723fe292ff18053ade0d7afa6c0328a": ("docs/paper-writing/writing-flow-example.md", "Examples of writing flow"),
     # Newly accessible (May 2026 reprobe) — re-fetched after fixing the URL-vs-ID lookup
     "1053fe292ff18015b2f3cde4498a5f0f": ("docs/getting-advanced/natural-science-definition.md", "Defining natural science: maths vs science"),
     "1053fe292ff180b59bbfe55c0961a796": ("docs/getting-advanced/clean-code.md", "Clean code"),

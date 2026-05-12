@@ -56,7 +56,7 @@ Work from coarse to fine when listing the outline:
 
 </details>
 
-[Examples of writing outlines (Notion)](https://www.notion.so/1723fe292ff18053ade0d7afa6c0328a)
+[Examples of writing outlines (Notion)](./writing-flow-example.md)
 
 How to use Copilot and GPT to help write **English paragraphs** ([**full video**](https://www.bilibili.com/video/BV1PP4Le6EcW)). Basic workflow:
 
