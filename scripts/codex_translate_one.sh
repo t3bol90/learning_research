@@ -28,7 +28,7 @@ PRE_MTIME=$(stat -f %m "$IMG" 2>/dev/null || echo 0)
 # We use an out-of-band marker file to detect "no chinese" because codex
 # echoes the prompt verbatim, so any literal token in the prompt would also
 # appear in stdout regardless of what codex actually said.
-MARKER="$DEBUG_DIR/$(basename "$STEM").no-chinese"
+MARKER="$DEBUG_DIR/$(echo "$IMG" | tr '/' '_').no-chinese"
 rm -f "$MARKER"
 
 PROMPT="Translate Chinese text in this image to English while preserving the exact layout, colours, fonts, photos, diagrams, arrows, and any non-text content. Do not redesign.
