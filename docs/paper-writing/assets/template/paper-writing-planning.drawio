@@ -1,0 +1,358 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.7 Chrome/138.0.7204.251 Electron/37.7.1 Safari/537.36" version="28.2.7">
+  <diagram name="第 1 页" id="hSXyRX0rQMkjvlzt_Xgs">
+    <mxGraphModel dx="2743" dy="1618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;论文的关键内容&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="876" y="158" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-1" target="U1ISnWuk1I9RzmmYaYA5-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-1" value="画&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;论文的技术流程图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="94" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-2" target="U1ISnWuk1I9RzmmYaYA5-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-2" value="写论文的关键内容&lt;div&gt;（见规划图的“关键内容”部分）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="154.6153846153846" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-3" target="U1ISnWuk1I9RzmmYaYA5-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-3" value="写Introduction的文字思路&lt;div&gt;（见规划图的“Introduction内容拆解图”部分）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="216.82591093117406" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-4" target="U1ISnWuk1I9RzmmYaYA5-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-4" value="写Method的文字思路&lt;div&gt;（见规划图的“Introduction&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;内容拆解图&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”部分）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="338.0566801619433" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-6" target="U1ISnWuk1I9RzmmYaYA5-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-6" target="U1ISnWuk1I9RzmmYaYA5-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-6" value="画实验规划图，整理要做的实验&lt;div&gt;（见规划图的“实验内容拆解图”部分）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="277.44129554655865" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-7" target="U1ISnWuk1I9RzmmYaYA5-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-7" value="并行做验证性实验和消融实验" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="421" y="277.44129554655865" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-8" target="U1ISnWuk1I9RzmmYaYA5-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-8" value="写Introduction和Method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="402.6599190283401" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-9" target="U1ISnWuk1I9RzmmYaYA5-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-9" value="写Experiment的文字思路&lt;div&gt;（见规划图的“Experiment&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;内容拆解图&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;”部分）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="467.2631578947368" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-10" target="U1ISnWuk1I9RzmmYaYA5-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-10" value="写Experiment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="527.8785425101214" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-11" target="U1ISnWuk1I9RzmmYaYA5-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-11" value="美化技术流程图，画论文Teaser图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="588.493927125506" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-12" value="把论文剩下的部分做完，&lt;div&gt;并反复Review论文、改论文&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="113" y="649.1093117408906" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-28" target="U1ISnWuk1I9RzmmYaYA5-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-28" target="U1ISnWuk1I9RzmmYaYA5-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-28" value="&lt;div&gt;做什么任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="190.51" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-29" target="U1ISnWuk1I9RzmmYaYA5-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-29" target="U1ISnWuk1I9RzmmYaYA5-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-29" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;提升该任务的什么指标&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="246" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-30" target="U1ISnWuk1I9RzmmYaYA5-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-30" target="U1ISnWuk1I9RzmmYaYA5-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SOTA方法无法满足目标指标的表面现象&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="302" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-31" target="U1ISnWuk1I9RzmmYaYA5-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-31" target="U1ISnWuk1I9RzmmYaYA5-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-31" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SOTA方法无法满足目标指标的本质技术问题&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="358" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-32" target="U1ISnWuk1I9RzmmYaYA5-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-32" target="U1ISnWuk1I9RzmmYaYA5-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-32" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;提出什么技术解决该技术问题。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;这里要画出一个技术流程图辅助自己全面理解自己提出的技术。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="415" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-33" target="U1ISnWuk1I9RzmmYaYA5-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-33" target="U1ISnWuk1I9RzmmYaYA5-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-33" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为什么该技术可以解决该技术问题&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="496.6" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-34" target="U1ISnWuk1I9RzmmYaYA5-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-34" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;这篇论文额外的一些技术贡献&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="801" y="552.6" width="251" height="35.89068825910931" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;论文写作流程图&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="190" y="62" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Introduction的内容拆解图&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1201.25" y="158" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-53" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-44" target="U1ISnWuk1I9RzmmYaYA5-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-44" value="&lt;div&gt;第一部分：介绍这篇论文在做什么任务&lt;/div&gt;&lt;div&gt;及其应用；介绍这篇论文关注的关键指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1126.5" y="190.51" width="311.5" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-46" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;第五部分：介绍论文做了哪些实验。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1126.5" y="550.5921168728601" width="311.5" height="37.898571386249216" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-56" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-47" target="U1ISnWuk1I9RzmmYaYA5-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-47" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;第四部分：介绍这篇论文额外的一些技术贡献，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;介绍清楚这些技术贡献想解决的问题，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;并讨论为什么该技术贡献可以解决他想解决的问题。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1126.5" y="462.99889959244166" width="311.5" height="53.80048165987402" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-55" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-48" target="U1ISnWuk1I9RzmmYaYA5-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-48" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;第三部分：介绍这篇论文提出的&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;解决本质技术问题的技术方案，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;并讨论为什么该技术可以解决该技术问题。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1126.5" y="368.99816081995505" width="311.5" height="59.13288656679066" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-54" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-49" target="U1ISnWuk1I9RzmmYaYA5-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-49" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;第二部分：介绍SOTA方法怎么做的，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;以及它们无法满足目标指标的表面现象，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;并讨论SOTA方法无法满足目标指标的本质技术问题。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1126.5" y="274.5346387550945" width="311.5" height="63.35679881437569" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-67" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-64" target="U1ISnWuk1I9RzmmYaYA5-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-64" value="&lt;div&gt;画论文的技术流程图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1715" y="339" width="119" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Method的内容拆解图&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1953" y="151" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-66" target="U1ISnWuk1I9RzmmYaYA5-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-66" target="U1ISnWuk1I9RzmmYaYA5-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-66" target="U1ISnWuk1I9RzmmYaYA5-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-66" value="&lt;div&gt;Method的内容拆解&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1902" y="339" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-79" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-68" target="U1ISnWuk1I9RzmmYaYA5-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-68" target="U1ISnWuk1I9RzmmYaYA5-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-81" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-68" target="U1ISnWuk1I9RzmmYaYA5-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-68" value="&lt;div&gt;Subsection 1&lt;/div&gt;&lt;div&gt;（技术模块1）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2073" y="233.83" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-70" value="&lt;div&gt;Subsection 2&lt;/div&gt;&lt;div&gt;（技术模块2）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2073" y="339.55" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-71" value="&lt;div&gt;Subsection 3&lt;/div&gt;&lt;div&gt;（技术模块3）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2073" y="439.55" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-74" value="指引" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1849" y="351" width="32" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-75" value="&lt;div&gt;Motivation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2241" y="190.24" width="122" height="38.292283352705674" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-76" value="&lt;div&gt;Detailed design&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2241" y="236.69391256618883" width="122" height="38.292283352705674" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-77" value="&lt;div&gt;Technical advantage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2241" y="284.0177166472943" width="122" height="38.292283352705674" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Experiment的内容拆解图&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2921" y="151" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Experiment的实验规划图&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2590.5" y="151" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-88" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-89" target="U1ISnWuk1I9RzmmYaYA5-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-89" value="&lt;div&gt;论文技术流程图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2612" y="504" width="119" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-90" target="5-mfR3q_ifSGII1nls_y-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-90" target="5-mfR3q_ifSGII1nls_y-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-90" target="5-mfR3q_ifSGII1nls_y-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-90" target="5-mfR3q_ifSGII1nls_y-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-90" value="&lt;div&gt;提出了哪些技术模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2610.5" y="595" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-94" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-92" target="U1ISnWuk1I9RzmmYaYA5-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-92" value="&lt;div&gt;论文的关键内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2612" y="183.99" width="119" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-93" target="5-mfR3q_ifSGII1nls_y-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-7" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-93" target="5-mfR3q_ifSGII1nls_y-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-93" target="5-mfR3q_ifSGII1nls_y-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-93" value="&lt;div&gt;提出了哪些贡献&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2610.5" y="274.99" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-91" value="指引" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2655.5" y="236.54000000000002" width="32" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-96" value="指引" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2655.5" y="556.55" width="32" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-105" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-101" target="U1ISnWuk1I9RzmmYaYA5-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-101" value="&lt;div&gt;实验设置的&lt;/div&gt;&lt;div&gt;Subsection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2941" y="185.04999999999998" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-106" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-102" target="U1ISnWuk1I9RzmmYaYA5-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-102" value="&lt;div&gt;验证性实验1的&lt;/div&gt;&lt;div&gt;Subsection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2941" y="253.95" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-107" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="U1ISnWuk1I9RzmmYaYA5-103" target="U1ISnWuk1I9RzmmYaYA5-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-103" value="&lt;div&gt;验证性实验2的&lt;/div&gt;&lt;div&gt;Subsection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2941" y="323.95" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-104" value="&lt;div&gt;消融实验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2941" y="392.95" width="122" height="44.9" as="geometry" />
+        </mxCell>
+        <mxCell id="U1ISnWuk1I9RzmmYaYA5-97" value="&lt;div&gt;验证性实验1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2521.5" y="430.63503213957756" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-10" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-1" target="U1ISnWuk1I9RzmmYaYA5-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-1" value="贡献1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2521.5" y="367.95" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-2" value="&lt;div&gt;验证性实验2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2629" y="430.63503213957756" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-3" target="5-mfR3q_ifSGII1nls_y-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-3" value="贡献2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2629" y="367.95" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-4" value="&lt;div&gt;验证性实验3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2737" y="430.63503213957756" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-12" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-5" target="5-mfR3q_ifSGII1nls_y-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-5" value="贡献3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2737" y="367.95" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-16" value="&lt;div&gt;消融实验1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2465.12" y="749.6850321395775" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-17" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-18" target="5-mfR3q_ifSGII1nls_y-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-18" value="技术模块1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2465.12" y="687" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-19" value="消融实验2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2572.62" y="749.6850321395775" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-20" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-21" target="5-mfR3q_ifSGII1nls_y-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-21" value="技术模块2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2572.62" y="687" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-22" value="消融实验3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2680.62" y="749.6850321395775" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-23" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-24" target="5-mfR3q_ifSGII1nls_y-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-24" value="重要参数1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2680.62" y="687" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-25" value="消融实验4" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2792.87" y="749.6850321395775" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-26" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5-mfR3q_ifSGII1nls_y-27" target="5-mfR3q_ifSGII1nls_y-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-mfR3q_ifSGII1nls_y-27" value="重要参数2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2792.87" y="687" width="84.5" height="38.36496786042241" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

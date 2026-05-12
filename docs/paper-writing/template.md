@@ -7,6 +7,8 @@ A community port of this writing template, "Vibe Writing Skills": [https://githu
 <details>
 <summary>Paper writing planning diagram</summary>
 
+Source file (drawio): [paper-writing-planning.drawio](./assets/template/paper-writing-planning.drawio).
+
 ![Paper writing planning, page 1](./assets/template/001.png)
 
 ![Paper writing planning, page 2](./assets/template/002.png)

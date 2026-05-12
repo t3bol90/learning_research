@@ -9,14 +9,14 @@ Rebuttal writing style:
 3. As far as possible, answer the reviewer's questions in the order they were asked.
 4. As far as possible, list all of a reviewer's questions under that reviewer's section, then reply to each one. Even if there are common questions, refer to common questions from inside the reviewer section.
 
-For an example of the writing style above, see this attached file: `Rebuttal style example.pdf` (attachment on the original Notion page).
+For an example of the writing style above, see [Rebuttal style example.pdf](./assets/rebuttal/rebuttal-style-example.pdf).
 
 Rebuttal procedure:
 
 <details>
 <summary>First, organise the review content</summary>
 
-The new review-organising tool is based on drawio (**recommended**, gives you a clearer overall view and is easier to read): `Rebuttal organising template.drawio` (attachment on the original Notion page).
+The new review-organising tool is based on drawio (**recommended**, gives you a clearer overall view and is easier to read): [Rebuttal organising template.drawio](./assets/rebuttal/rebuttal-organising-template.drawio).
 
 ![A drawio-based view for organising review content](./assets/rebuttal/001.png)
 
