@@ -1,18 +1,18 @@
-- 8 May 2026, updated *How to do a rebuttal*: https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022, added a section on language style for rebuttals.
-- 3 May 2026, updated *How to do a rebuttal*: https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022, added a basic flow chart for the rebuttal process.
-- 25 January 2026, updated *How to find papers*: https://www.notion.so/pengsida/c278dab7e4764d61a92c1fd1ef3135b1, added how to find papers using Deep Research.
-- 25 January 2026, updated *Paper writing template*: https://www.notion.so/pengsida/c1a22465a0fa4b15a12985223916048e, added a paper writing planning chart.
-- 23 January 2026, updated *How to do a rebuttal*: https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022, added a drawing-based tool for organising reviews.
-- 18 January 2026, updated *How to do a research project*: https://pengsida.notion.site/Research-Project-b43507ef26d044bd888ac29f4736e116?pvs=74, added content on vibe coding.
-- 18 January 2026, updated *How to read papers effectively*: https://www.notion.so/pengsida/d192db870bc64436ae4a4a590b36772a
-- 10 January 2026, updated *How to do a research project*: https://pengsida.notion.site/Research-Project-b43507ef26d044bd888ac29f4736e116?pvs=74, added content on systems thinking.
-- 23 October 2025, updated *Project core technical problem analysis template*: https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4.
-- 1 August 2025, updated *Project core technical problem analysis template*: https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4.
-- 13 April 2025, updated *Project core technical problem analysis template*: https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4.
-- 11 April 2025, added *Reflecting on the qualities valuable to research from the angle of interview questions*: https://www.notion.so/1d13fe292ff180de91afcb7f2eb57b69?pvs=4.
-- 11 March 2025, added *Project core technical problem analysis template*: https://www.notion.so/Project-1753fe292ff180948215cf82cd2b30ae?pvs=4.
-- 5 January 2025, updated *Paper writing template*: https://www.notion.so/pengsida/c1a22465a0fa4b15a12985223916048e.
-- 4 January 2025, added *A model PhD student: Sebastian Starke*: https://www.notion.so/Sebastian-Starke-1713fe292ff1808eb33be93ea2d79ad9?pvs=4.
+- 8 May 2026, updated *How to do a rebuttal*: ./docs/rebuttal.md, added a section on language style for rebuttals.
+- 3 May 2026, updated *How to do a rebuttal*: ./docs/rebuttal.md, added a basic flow chart for the rebuttal process.
+- 25 January 2026, updated *How to find papers*: ./docs/find-papers.md, added how to find papers using Deep Research.
+- 25 January 2026, updated *Paper writing template*: ./docs/paper-writing/template.md, added a paper writing planning chart.
+- 23 January 2026, updated *How to do a rebuttal*: ./docs/rebuttal.md, added a drawing-based tool for organising reviews.
+- 18 January 2026, updated *How to do a research project*: ./docs/research-project.md, added content on vibe coding.
+- 18 January 2026, updated *How to read papers effectively*: ./docs/getting-advanced/reading-papers.md
+- 10 January 2026, updated *How to do a research project*: ./docs/research-project.md, added content on systems thinking.
+- 23 October 2025, updated *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 1 August 2025, updated *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 13 April 2025, updated *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 11 April 2025, added *Reflecting on the qualities valuable to research from the angle of interview questions*: ./docs/interview-questions-reflection.md
+- 11 March 2025, added *Project core technical problem analysis template*: ./docs/project-core-technical-problem-analysis.md
+- 5 January 2025, updated *Paper writing template*: ./docs/paper-writing/template.md
+- 4 January 2025, added *A model PhD student: Sebastian Starke*: ./docs/sebastian-starke.md
 - 28 November 2024, updated *Paper writing template*, added common issues in writing the Method section.
 - 24 October 2024, added *How to revise the writing of a paper*.
 - 3 October 2024, added *How to use Copilot and GPT to assist English writing*.

@@ -15,18 +15,18 @@
 
 <!-- To put together this summary of research experience, the first question to answer is: what abilities does a top PhD student have? -->
 
-The core ability: in my view, a top PhD student knows how to set a long-term research goal. The goal should have important scientific value and practical value (finding genuinely valuable scientific problems within real applications). From that goal, they break the research roadmap into smaller pieces. The few papers produced during the PhD all sit around solving this goal, and together they show the student's progress along the roadmap clearly. The paper demos should be as cool as possible (example: [a model PhD student, Sebastian Starke](https://pengsida.notion.site/Sebastian-Starke-1713fe292ff1808eb33be93ea2d79ad9?pvs=4)).
+The core ability: in my view, a top PhD student knows how to set a long-term research goal. The goal should have important scientific value and practical value (finding genuinely valuable scientific problems within real applications). From that goal, they break the research roadmap into smaller pieces. The few papers produced during the PhD all sit around solving this goal, and together they show the student's progress along the roadmap clearly. The paper demos should be as cool as possible (example: [a model PhD student, Sebastian Starke](./docs/sebastian-starke.md)).
 
 In day-to-day research work, a PhD student needs five abilities: finding important research problems, proposing solutions, running experiments, writing papers, and giving presentations. Below are some specific suggestions.
 1. [Getting started with research in 3D vision](./getting_started_in_research.md)
 2. [Building your research ability (finding research problems, coming up with ideas, running experiments, meeting with your supervisor)](./getting_advanced_in_research.md)
-3. [How to do a research project (the abilities a PhD student should have)](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
+3. [How to do a research project (the abilities a PhD student should have)](./docs/research-project.md)
 4. Paper writing
-    - [How to practise paper writing](https://pengsida.notion.site/c13c7e52aab64c1a8e3576b97fcb9851)
-    - [Paper writing template](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e) (the lab finds it useful)
-    - [Writing experience from high-level researchers](https://pengsida.notion.site/74aef88b9187439fa4e301704f6eb49a)
-5. [How to do a rebuttal](https://pengsida.notion.site/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022)
-6. [How to make slides for an academic talk](https://pengsida.notion.site/slides-810f02670691444f8c94cc3d5b76dcbc)
+    - [How to practise paper writing](./docs/paper-writing/practising.md)
+    - [Paper writing template](./docs/paper-writing/template.md) (the lab finds it useful)
+    - [Writing experience from high-level researchers](./docs/paper-writing/high-level-researchers.md)
+5. [How to do a rebuttal](./docs/rebuttal.md)
+6. [How to make slides for an academic talk](./docs/academic-talk-slides.md)
 
 ### Slides
 
