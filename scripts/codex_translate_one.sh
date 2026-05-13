@@ -41,8 +41,8 @@ Steps:
 
 Then briefly summarise what you did."
 
-codex exec -m gpt-5.4 \
-  --config model_reasoning_effort="high" \
+codex exec -m "${CODEX_MODEL:-gpt-5.4}" \
+  --config model_reasoning_effort="${CODEX_EFFORT:-medium}" \
   --sandbox danger-full-access --full-auto --skip-git-repo-check \
   "$PROMPT" >"$DBG" 2>&1
 
