@@ -1,4 +1,4 @@
-# Getting started with research in 3D vision
+# Getting started with research
 
 ## Stage one
 
@@ -6,7 +6,11 @@ Learn the basics of deep learning. The aim at this stage is breadth: get familia
 
 Take the *Deep Learning for Computer Vision* course. The key thing is to finish the assignments. If you can do the assignments, you have understood the course content. It helps to keep a GitHub repo for your assignments.
 
-The recommended course is the one taught by Prof. Andrej Karpathy. Here is the [course link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html).
+The recommended course is the one taught by Prof. Andrej Karpathy. Course resources:
+
+1. Videos: [Bilibili](https://www.bilibili.com/video/BV1eD4y1U7uu/) or [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r).
+2. Assignments (A1–A6, original Winter 2022 version): [EECS498-WI22](https://github.com/nizne9/EECS498-WI22).
+3. Textbook: [Deep Learning](https://www.deeplearningbook.org/).
 
 If you get stuck on an algorithm or a piece of code, try a Google search or ask Bing first. If you still cannot find an answer, do not be afraid to ask a senior student in the lab.
 

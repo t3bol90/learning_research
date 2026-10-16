@@ -15,7 +15,7 @@
 **Postscript:**
 1. The contents may not fully capture what I want to say, and may not be complete. If you want to learn research deeply, the recommendation is to use these notes as a reference and learn through practice and conversation.
 2. The document is based on [my own](https://pengsida.net/) research experience in [our lab](https://xzhou.me/), and may not apply to other situations.
-3. The document will keep being updated (updates may happen in Notion, so they will not always show up in the commit history). Last updated: 8 May 2026.
+3. The document will keep being updated (updates may happen in Notion, so they will not always show up in the commit history). Last updated: 6 June 2026.
 
 ## How to work towards becoming a top PhD student
 
@@ -24,7 +24,7 @@
 The core ability: in my view, a top PhD student knows how to set a long-term research goal. The goal should have important scientific value and practical value (finding genuinely valuable scientific problems within real applications). From that goal, they break the research roadmap into smaller pieces. The few papers produced during the PhD all sit around solving this goal, and together they show the student's progress along the roadmap clearly. The paper demos should be as cool as possible (example: [a model PhD student, Sebastian Starke](./docs/sebastian-starke.md)).
 
 In day-to-day research work, a PhD student needs five abilities: finding important research problems, proposing solutions, running experiments, writing papers, and giving presentations. Below are some specific suggestions.
-1. [Getting started with research in 3D vision](./getting_started_in_research.md)
+1. [Getting started with research](./getting_started_in_research.md)
 2. [Building your research ability (finding research problems, coming up with ideas, running experiments, meeting with your supervisor)](./getting_advanced_in_research.md)
 3. [How to do a research project (the abilities a PhD student should have)](./docs/research-project.md)
 4. Paper writing
